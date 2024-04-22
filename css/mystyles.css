@@ -1,0 +1,40 @@
+
+.common{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     position: absolute;
+     color: black;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+}
+
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+
+}
+
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+   background-color: bisque;
+   font-style: italic;
+   font-weight: bold;
+}
+
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 10px solid lavender
+}
+
+body{
+    background-color: antiquewhite;
+}
